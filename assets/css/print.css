@@ -1,0 +1,59 @@
+html,body {
+  margin: 10px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  line-height: 18px;
+  color: #000000;
+  background-color: #ffffff;
+}
+.title-style-one{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+}
+.table-style-one{
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin-bottom: 20px;
+}
+.th-style-one{
+    font-size: 14px;
+    font-weight: bold;
+    text-align: left;
+}
+.table-style-one th,td {
+    border: 1px solid #000000;
+    padding: 2px;
+}
+#footer-text{
+    text-align: right;
+}
+.table-style-two{
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin-bottom: 20px;
+}
+.company-name{
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.slogan{
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.address{
+    text-align: center;
+    padding-bottom: 10px;
+}
+.table-style-two td {
+    border: 0px solid #000000;
+    padding: 2px;
+}
